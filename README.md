@@ -1,4 +1,6 @@
 # roadmap
+
+[![Join the chat at https://gitter.im/Micro-Holding-Cooperativism/roadmap](https://badges.gitter.im/Micro-Holding-Cooperativism/roadmap.svg)](https://gitter.im/Micro-Holding-Cooperativism/roadmap?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 create and manage your one-person micro holding company
 
 ## Related Projects
